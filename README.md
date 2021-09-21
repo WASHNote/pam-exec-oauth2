@@ -1,6 +1,6 @@
 # pam-exec-oauth2
 
-Maintained by [WASHNote](washnote.com) for use in [rstudio.washnote.org](https://rstudio.washnote.org).
+Maintained by [WASHNote](https://washnote.com) for use in [rstudio.washnote.org](https://rstudio.washnote.org).
 
 ## Install
 
